@@ -1,0 +1,37 @@
+	Global setup
+git config --global user.name "Mustapha "
+git config --global user.email "mustapha.aouas@epitech.eu"
+
+	Create a new repository
+git clone git@gitlab.com:ewalker/application.git
+cd application
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+	Existing folder
+cd existing_folder
+git init
+git remote add origin git@gitlab.com:ewalker/application.git
+	ou 
+	git remote add origin https://github.com/ultraMIND/HeroSnake.git
+git add .
+git commit -am "Initial commit"
+git push -u origin master
+
+	Existing Git repository
+cd existing_repo
+git remote add origin git@gitlab.com:ewalker/application.git
+git push -u origin --all
+git push -u origin --tags
+
+	Create SSH key
+ssh-keygen -t rsa -C "mustapha.aouas@epitech.eu"
+
+	Launch SSH and commit
+eval `ssh-agent`
+ssh-add ~/.ssh/id_rsa
+git add X
+git commit -am "X"
+git push -u origin master

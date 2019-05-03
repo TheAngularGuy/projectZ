@@ -1,0 +1,5 @@
+Project leader			: MUSS
+Stake holder			: Dou
+Product owner			: Banane
+Developper				: Kevain
+Project Designer 		: SAMI
