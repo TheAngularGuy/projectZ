@@ -2,10 +2,10 @@
 
 A Dragon Ball radar with augmented reality.
 
-<p style="text-align:center;">
-  <img src="ScreenShots/Screenshot_20170514-173101.png" width="200">
-  <img src="ScreenShots/Screenshot_20170514-173201.png" width="200">
-  <img src="ScreenShots/Screenshot_20170514-145213.png" width="200">
+<p align="center">
+  <img src="ScreenShots/Screenshot_20170514-173101.png" width="270">
+  <img src="ScreenShots/Screenshot_20170514-173201.png" width="270">
+  <img src="ScreenShots/Screenshot_20170514-145213.png" width="270">
 </p>
 
 ## Context
